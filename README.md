@@ -205,7 +205,9 @@ Fadipe Toluwanimi Alfred
 Mechatronics Engineering - Federal University of Technology, Minna
 
 GitHub: https://github.com/alfredoeinsteino2024
+
 LinkedIn: https://linkedin.com/in/toluwanimialfred
+
 Built under ChainEngineers
 
 ---
